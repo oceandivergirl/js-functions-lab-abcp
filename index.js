@@ -1,6 +1,5 @@
 // write your code below!
 var name = "you"
-var holiday = ""
 
 function happyHolidays(){
   return("Happy holidays!")
@@ -9,6 +8,7 @@ function happyHolidaysTo(){
   return(`Happy holidays, ${name}!`)
 }
 function happyHoliday(){
+  var holiday = 
   return(`Happy ${holiday}, ${name}!`)
 }
 function holidayCountdown(){
